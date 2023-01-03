@@ -1,0 +1,12 @@
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\bin\Debug\net6.0\NASSOne.Platform.Infrastructure.deps.json
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\bin\Debug\net6.0\NASSOne.Platform.Infrastructure.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\bin\Debug\net6.0\NASSOne.Platform.Infrastructure.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.csproj.AssemblyReference.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.AssemblyInfoInputs.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.AssemblyInfo.cs
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\refint\NASSOne.Platform.Infrastructure.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\NASSOne.Platform.Infrastructure.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Infrastructure\obj\Debug\net6.0\ref\NASSOne.Platform.Infrastructure.dll

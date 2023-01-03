@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CuVO5X9na8mMxB+bN3QsB4Mzy7osZl6Y2sBxHnnRCBdlkwCPLNAR1HpURvHenuz7Gh8ohQM5pNHOdd3f8a+8JA==",
+  "success": true,
+  "projectFilePath": "C:\\SourceRepo\\Learning\\Project\\NASSOne.Platform.Authorization\\NASSOne.Platform.Core\\NASSOne.Platform.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.carmax.org/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

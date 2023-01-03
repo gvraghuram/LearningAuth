@@ -1,0 +1,15 @@
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\bin\Debug\net6.0\NASSOne.Platform.Application.deps.json
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\bin\Debug\net6.0\NASSOne.Platform.Application.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\bin\Debug\net6.0\NASSOne.Platform.Application.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.csproj.AssemblyReference.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.AssemblyInfoInputs.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.AssemblyInfo.cs
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.csproj.CoreCompileInputs.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\refint\NASSOne.Platform.Application.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\ref\NASSOne.Platform.Application.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\bin\Debug\net6.0\NASSOne.Platform.Core.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\bin\Debug\net6.0\NASSOne.Platform.Core.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.Application\obj\Debug\net6.0\NASSOne.Platform.Application.csproj.CopyComplete

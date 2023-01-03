@@ -1,0 +1,15 @@
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\NASSOne.Platform.UnitTests.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\NASSOne.Platform.UnitTests.pdb
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\obj\Debug\NASSOne.Platform.UnitTests.csproj.AssemblyReference.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\obj\Debug\NASSOne.Platform.UnitTests.csproj.CoreCompileInputs.cache
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\obj\Debug\NASSOne.Platform.UnitTests.csproj.CopyComplete
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\obj\Debug\NASSOne.Platform.UnitTests.dll
+C:\SourceRepo\Learning\Project\NASSOne.Platform.Authorization\NASSOne.Platform.UnitTests\obj\Debug\NASSOne.Platform.UnitTests.pdb

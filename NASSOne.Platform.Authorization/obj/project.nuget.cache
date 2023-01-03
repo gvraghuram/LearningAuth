@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXvK/+eMtfVWvBD5Z+8qbf27wbfQfOGVDRyePhHrOfcstIPwduz94OieRFJpZI4BaafKGDzp4PC/y5ZMF+MIyQ==",
+  "success": true,
+  "projectFilePath": "C:\\SourceRepo\\Learning\\Project\\NASSOne.Platform.Authorization\\NASSOne.Platform.Authorization\\NASSOne.Platform.Authorization.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9510977\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\csharpfunctionalextensions\\2.37.0\\csharpfunctionalextensions.2.37.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\9510977\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.carmax.org/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
